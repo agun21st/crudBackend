@@ -1,0 +1,16 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/AdminComponent.js": "/AdminComponent.js",
+    "/AdminDashboardComponent.js": "/AdminDashboardComponent.js",
+    "/MyAffiliats.js": "/MyAffiliats.js",
+    "/MyFxBook.js": "/MyFxBook.js",
+    "/PageNotFoundComponent.js": "/PageNotFoundComponent.js",
+    "/TradeHistory.js": "/TradeHistory.js",
+    "/UserDashboard.js": "/UserDashboard.js",
+    "/UserDeposit.js": "/UserDeposit.js",
+    "/UserPanel.js": "/UserPanel.js",
+    "/UserProfile.js": "/UserProfile.js",
+    "/UserTradeAccount.js": "/UserTradeAccount.js",
+    "/UsersComponent.js": "/UsersComponent.js"
+}

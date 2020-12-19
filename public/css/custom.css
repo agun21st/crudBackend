@@ -1,0 +1,235 @@
+
+:root{
+    --myPrimaryColor: #0cba8e;
+}
+
+video{
+    position:absolute;
+    top: 0;
+    left: 0;
+    margin:0;
+    padding: 0;
+    width:100%;
+}
+.welcomText
+{
+    position: relative;
+    margin-top: 10%
+}
+.welcomeText
+{
+    font-size: 4rem; 
+    color: white; 
+    font-weight: 600;
+    margin-top: 100px;
+}
+.typedText
+{
+    font-size: 1.5rem; 
+    color: white; 
+    font-weight: 600;
+}
+.weProvideText
+{
+    font-size: 25px;
+    color: white; 
+    font-weight: 600
+
+}
+.wecomeButtons
+{
+    margin-top: 30px;
+}
+.serviceText
+{
+    font-size: 3rem;
+    font-weight: 900;
+    color: #ee6e52;
+}
+.ourDeal
+{
+    border-right: 5px solid #fff;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 50px; 
+}
+.BrokersDiv
+{
+    height: auto;
+    text-align: center;
+    background-color: #F5F5F5;
+}
+.memberDiv
+{
+    height: auto;
+    text-align: center;
+    background-color: #F5F5F5;
+}
+.getInHeight{
+    height: 518px;
+}
+.getInTouch{
+    font-weight: 600 !important;
+}
+
+.footerMargin
+{
+    margin-top: 100px;
+}
+
+.mobileFont
+{
+    color: #fff !important; 
+    font-size: 16px !important;
+}
+
+.depositeBgImage
+{
+    /* background-image: url('/img/bg/chart_1920.jpg');
+    background-size: cover;
+    height: 90vh; */
+}
+
+.toolbarText
+{
+    font-size: 36px;
+    font-weight: 600;
+    color: #00d7ab;
+    
+}
+
+/* .registerPage
+{
+    height: 100vh;
+    background-image: url("/img/Register/StockMarket.gif") !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+} */
+.v-input--checkbox .v-label {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.TradeAccountRadio .v-input--is-label-active
+{
+    margin-top: 0;
+}
+
+.termsconditions
+{
+    color: #00d7ab; font-size: 36px;
+}
+
+.addtradeaccount
+{
+    font-size: 36px;
+}
+.f20
+{
+    font-size: 20px;
+}
+.f16
+{
+    font-size: 16px;
+}
+.fw600
+{
+    font-weight: 600;
+}
+
+.pageNotFound
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.show-btns {
+    color: red !important;
+}
+
+@media only screen and (max-width: 600px)
+{
+    .selectPaymentMethod
+    {
+        font-size: 24px !important;
+    }
+    .termsconditions
+    {
+        font-size: 26px;
+    }
+    .addtradeaccount
+    {
+        font-size: 26px;
+    }
+    .toolbarText
+    {
+        font-size: 26px;
+    }
+    .mobileFont{
+        font-size: 12px !important;
+    }
+    .dashboardBottom{
+        margin-bottom: 500px;
+    }
+    .footerMargin
+    {
+        margin-top: 300px;
+    }
+    .welcomeText{
+        font-size: 2rem;
+        margin-top: -20px;
+    }
+    .typedText
+    {
+        font-size: 1rem;  
+        font-weight: normal;
+    }
+    .weProvideText
+    {
+        font-size: 13px;
+        color: white; 
+        font-weight: 600
+
+    }
+    .wecomeButtons
+    {
+        margin-top: 10px;
+    }
+    .serviceDiv
+    {
+        height: auto;
+        background-position: top left;
+    }
+    .aboutForex
+    {
+        height: auto;
+        background-position: bottom left;
+    }
+    .benefits
+    {
+        font-size: 20px !important;
+    }
+    .serviceText
+    {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    .ourDeal
+    {
+        border-right: none;
+    }
+    .pzero
+    {
+        padding: 0px !important;
+    }
+    .getInTouch{
+        
+    }
+    .getInHeight{
+        height: auto;
+    }
+    
+}
